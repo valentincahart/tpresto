@@ -1,3 +1,5 @@
 pains
 steack
 fromage
+pain 
+cheese
